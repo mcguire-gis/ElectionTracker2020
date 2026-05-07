@@ -1,0 +1,1 @@
+StAbbr;u1;u2;OfficeCode;Office;u3;OrderCode;Candidate;u4;u5;Party;u6;u7;VotesFor;Percentage;TotalVotes
